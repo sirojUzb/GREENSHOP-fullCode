@@ -1,15 +1,18 @@
+import { Route, Routes } from "react-router-dom";
 import Navbar from "./components/navbar";
-import SideNav from "./components/side-nav";
-import SlideSection from "./components/slide-section";
+import Home from "./pages/home";
 
 function App() {
   return (
     <div>
       <Navbar />
-      <SlideSection />
-      <SideNav />
+      <Routes>
+        <Route index element={<Home />} />
+      </Routes>
     </div>
   );
 }
 
 export default App;
+
+// greenshop lesson 2 video 1 minute 19
