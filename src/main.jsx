@@ -23,4 +23,3 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     </BrowserRouter>
   </AuthProvider>
 );
-// 2nd lesson's 1st video 8th minute
