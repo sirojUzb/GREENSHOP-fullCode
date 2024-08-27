@@ -14,5 +14,3 @@ function App() {
 }
 
 export default App;
-
-// greenshop lesson 2 video 1 minute 19
