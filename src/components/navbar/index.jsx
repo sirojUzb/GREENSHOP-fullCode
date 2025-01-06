@@ -27,7 +27,7 @@ const Navbar = () => {
           Shop
         </h3>
         <h3 className="relative cursor-pointer before:w-full before:h-1 before:absolute before:left-0 hover:before:bg-[#46a358] before:bottom-[-28px] before:content-['']">
-          Plant Care
+          Plant care
         </h3>
         <h3 className="relative cursor-pointer before:w-full before:h-1 before:absolute before:left-0 hover:before:bg-[#46a358] before:bottom-[-28px] before:content-['']">
           Blogs
